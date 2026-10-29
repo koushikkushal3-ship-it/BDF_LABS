@@ -7,7 +7,7 @@
 **Course:** Backend Development Fundamentals
 **Lab Number:** 01
 
-**Live Link:** https://bdflad.vercel.app/
+**Live Link:** https://ladone.vercel.app/
 
 ## Objective
 
